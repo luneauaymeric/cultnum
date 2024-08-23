@@ -10,8 +10,9 @@ Le cours de "cultures numériques" s'articule autour du triptyque "coder, décod
 
 * __Explorer__ : enfin, vous aurez à appliquer ces connaissances "théoriques" et "pratiques" en produisant une enquête collective exploratoire. Contrairement aux précédentes années, où le thème de l'enquête était choisi librement par les groupes, les explorations s'articuleront autour d'un thème commun à l'ensemble de la classe. Pour chacun des groupes, il s'agira alors de définir une question de recherche  en lien avec le thème général. Pour vous aider à définir cette question de recherche, la structure du cours s'inspirera de l'exercice décrit dans l'article "Writing the Implosion" {cite:ps}`dumitWritingImplosionTeaching2014`
 
-
+<!--
 ## Validation
+
 
 * Exercice individuel (30%) - Deadline : 02/10/2023 (Séance 5)
 
@@ -37,3 +38,4 @@ L'exploration sera bien entendu la principale charge du travail. Cependant, il a
 
 
 ## Déroulé des séances
+-->
