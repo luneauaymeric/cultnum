@@ -1,1 +1,1 @@
-# The Woman Dancing Emoji :woman_dancing: &#128131;
+# The Woman Dancing Emoji &#128131;
