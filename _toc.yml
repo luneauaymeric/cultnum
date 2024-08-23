@@ -5,3 +5,4 @@ format: jb-book
 root: README.md
 chapters:
 - file: syllabus.md
+- file: biblio.md

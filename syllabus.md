@@ -4,9 +4,11 @@
 Le cours de "cultures numériques" s'articule autour du triptyque "coder, décoder, explorer". L'objectif, à travers ces trois activités, est de vous donner des outils théoriques et méthodologiques pour mieux comprendre les technologies dites "numériques", les débats qu'elles ont suscités et qu'elles suscitent toujours. 
 
 
-__Coder__ : comprendre les technologies numériques suppose d'abord de savoir comment elles fonctionnent. Le cours sera l'occasion d'apprendre à ouvrir un navigateur en "ligne de commande", de découvrir le code html qui se cache derrière une page web, de vous initier à la programmation en Python ou décrypter les algorithmes qui font fonctionner les intelligences artificielles. L'objectif n'est pas de faire de vous des "programmeur.euses", mais de vous donner des clés pour apprivoiser des univers qu'on aime à présenter comme complexes voire obscures.
-__Décoder__ : il s'agit donc aussi et surtout de comprendre comment les technologies numériques façonnent tout autant qu'elles sont façonnées par nos sociétés. On abordera ainsi au cours de chaque séance ou presque les dimensions historiques, politiques, économiques ou sociologiques du "numérique". 
-__Explorer__ : enfin, vous aurez à appliquer ces connaissances "théoriques" et "pratiques" en produisant par groupe de 4 une enquête exploratoire
+* __Coder__ : comprendre les technologies numériques suppose d'abord de savoir comment elles fonctionnent. Le cours sera l'occasion d'apprendre à ouvrir un navigateur en "ligne de commande", de découvrir le code html qui se cache derrière une page web, de vous initier à la programmation en Python ou décrypter les algorithmes qui font fonctionner les intelligences artificielles. L'objectif n'est pas de faire de vous des "programmeur.euses", mais de vous donner des clés pour apprivoiser des univers qu'on aime à présenter comme complexes voire obscures.
+
+* __Décoder__ : il s'agit donc aussi et surtout de comprendre comment les technologies numériques façonnent tout autant qu'elles sont façonnées par nos sociétés. On abordera ainsi au cours de chaque séance ou presque les dimensions historiques, politiques, économiques ou sociologiques du "numérique". 
+
+* __Explorer__ : enfin, vous aurez à appliquer ces connaissances "théoriques" et "pratiques" en produisant une enquête collective exploratoire. Contrairement aux précédentes années, où le thème de l'enquête était choisi librement par les groupes, les explorations s'articuleront autour d'un thème commun à l'ensemble de la classe. Pour chacun des groupes, il s'agira alors de définir une question de recherche  en lien avec le thème général. Pour vous aider à définir cette question de recherche, la structure du cours s'inspirera de l'exercice décrit dans l'article "Writing the Implosion" {cite:ps}`dumitWritingImplosionTeaching2014`
 
 
 ## Validation
@@ -29,8 +31,9 @@ Lors de la dernière séance (séance 8), vous aurez 10 minutes pour présenter 
 Enfin, comme vous en avez certainement l'habitude, votre note sera bonifiée en fonction de votre participation au cours des séances et votre engagement au sein de votre groupe d'enquête.
 
 
-
-
 ## Charge de travail
 
 L'exploration sera bien entendu la principale charge du travail. Cependant, il arrivera que je vous demande de préparer certaines séance en lisant un texte, en écoutant un podcast, en regardant une vidéo ou en installent un programme informatique.
+
+
+## Déroulé des séances
