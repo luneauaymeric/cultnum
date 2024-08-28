@@ -1,6 +1,6 @@
 # README
 
-Ce site est conçu comme un support du cours de "Cultures numériques" de 2024 destinées aux étudiant.es en deuxième année du collège universitaire de Sciences Po Paris (Campus de Reims) appartenant aux groupes X et Y.
+Ce site est conçu comme un support du cours de "Cultures numériques" de 2024 destinées aux étudiant.es en deuxième année du collège universitaire de Sciences Po Paris (Campus de Reims) appartenant aux groupes 5 et 6.
 
 https://luneauaymeric.github.io/cultnum/
 
