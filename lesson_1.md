@@ -24,7 +24,7 @@ __Exercices__ :
 
 ````{margin}
 ```{note}
-Les informations techniques contenues dans cette partie sont issues du très bon sites [](https://www.infoforall.fr/act/snt/cat/internet/)
+Les informations techniques contenues dans cette partie sont issues du très bon sites <a href="https://www.infoforall.fr/act/snt/cat/internet/"></a>
 ```
 ````
 
