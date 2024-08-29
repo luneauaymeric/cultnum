@@ -380,7 +380,7 @@ document.write(`
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Une brève chronologie du numérique</a><ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#internet">Internet</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#internet-une-innovation-sociotechnique">Internet : une innovation sociotechnique</a></li>
 </ul>
 </li>
 <li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#the-woman-dancing-emoji">The Woman Dancing Emoji 💃</a></li>
@@ -407,8 +407,15 @@ document.write(`
 </ul>
 <p><img alt="" src="_images/qr_code_wooclap_debut_numerique.png" /></p>
 <!-- La timeline montre que le numérique est une histoire scientifique et technique, mais aussi une histoire politique à travers les institutions mises en place pour développer Internet et réguler le réseau, une histoire culturelle à travers les pratiques des outils numériques, leurs inscriptions dans des oeuvres littéraires (Azimov), cinématographiques, une histoire des transformations sociales (le télétravail, les sites de rencontre, les réseaux sociaux) -->
-<section id="internet">
-<h2>Internet<a class="headerlink" href="#internet" title="Link to this heading">#</a></h2>
+<section id="internet-une-innovation-sociotechnique">
+<h2>Internet : une innovation sociotechnique<a class="headerlink" href="#internet-une-innovation-sociotechnique" title="Link to this heading">#</a></h2>
+<aside class="margin sidebar">
+<p class="sidebar-title"></p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Les informations techniques contenues dans cette partie sont issues du très bon sites <a class="reference external" href="https://www.infoforall.fr/act/snt/cat/internet/"></a></p>
+</div>
+</aside>
 <p>Internet est le nom donné au protocole permettant à des ordinateurs de communiquer à distance, c’est-à-dire de s’échanger des informations. Ce protocole est le <strong>TCP/IP</strong>, qui signifie “Transmission Control Protocol/<strong>Internet</strong> Protocol”. Il a été mis au point en <strong>1973</strong> par Vinton Cerf et Robert Kahn dans le cadre du projet <strong>ARPANET</strong> initié en <strong>1966</strong> sous l’égide de l’Information Processing Techniques Office (IPTO). L’IPTO est lui-même une subdivision de l’Advanced Research Projetcs Agency. L’ARPA est une agence mise en place en 1958 par le Département américain de la Défense en réponse à l’envoi du premier satellite Spoutnik par l’Union soviétique.</p>
 <p>La première démonstration d’une communication en réseau entre deux ordinateurs a eu lieu le 9 décembre 1968 avec en vedette Doug Engelbart. Alors qu’Engelbert et son équipe étaient dans le San Francisco’s Civic Auditorium, ils ont réussi à interagir avec un autre ordinateur situé dans leur laboratoire de l’université de Stanford. C’est aussi la première fois qu’on a utilisé une souris. Efin, cette démonstration est considérée comme “the mother of all demos”.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yJDv-zdhzMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -420,11 +427,21 @@ document.write(`
 <li><p>La communication passe uniquement par les câbles téléphoniques, ce qui réduit son application militaire puisqu’il ne permet pas d’échanger des informations par radio ou satellite <span id="id1">[<a class="reference internal" href="biblio.html#id1395" title="Janet Abbate. Inventing the Internet. Inside Technology. MIT Press, Cambridge, Mass, 1999. ISBN 978-0-262-01172-3.">Abbate, 1999</a>]</span>.</p></li>
 <li><p>Il faut appartenir au même réseau. Ce qui rend plus difficile son usage académique par exemple.</p></li>
 </ul>
-<p>Deux problèmes que le protocole TCP/IP (donc Internet) va permettre de résoudre. Dans les deux cas, les protocoles NCP (Arpanet) et TCP/IP (Internet) mettent en application le concept “switching packet” (communication par paquet) proposé par Paul Baran (Rand Company) et Donald Davies (National Physical Laboratory). Pour schématiser, la communication par paquet consiste à découper un message en morceaux et à les envoyer par différents canaux. Le destinataire se chargera ensuite de recoller les morceaux dans l’ordre pour reconstituer le message initial.</p>
+<p>Deux problèmes que le protocole TCP/IP (donc Internet) va permettre de résoudre. Dans les deux cas, les protocoles NCP (Arpanet) et TCP/IP (Internet) mettent en application le concept “switching packet” (communication par paquet) proposé par Paul Baran (Rand Company) et Donald Davies (National Physical Laboratory). Pour schématiser, on parle de “paquet”, car l’information est envoyée comme on le fait pour une lettre ou un colis : en plus du message, chaque “paquet d’information” possède une “en-tête” précisant l’adresse de l’émetteur et du destinataire.
+Ce sont les fameuses <strong>adresses IP</strong>.</p>
+<p>Si l’<strong>IP</strong> peut être assimilé à une adresse, le <strong>TCP</strong> est une sorte d’accusé de réception permettant aux deux machines communiquant entre-elles de savoir si la communication est “fiable” :</p>
+<ul class="simple">
+<li><p>à la machine émettrice de savoir que le paquet est bien arrivé</p></li>
+<li><p>à la machine réceptrice de savoir si le paquet reçu comporte de erreurs sur certains bits</p></li>
+<li><p>à la machine émettrice d’émettre à nouveau un paquet si besoin</p></li>
+</ul>
+<p>Le protocole <strong>TCP</strong> permet également de subdiviser un message en plusieurs paquets et d’envoyer plusieurs messages en même temps (ou lancer plusieurs programme en même temps : lancer une vidéo et lire les mails en même temps)</p>
 <p><img alt="" src="_images/switching_packets.png" /></p>
-<p>Ainsi, la communication par paquet permet de faire passer des informations via un réseau distribué. On parle de réseau distribué lorsqu’il existe plusieurs chemins entre un point A et un point B. Il s’oppose à un réseau centralisé. Les réseaux téléphoniques sont des réseaux centralisés. Le RER est un réseau centralisé : vous êtes obligés de passer par Paris (Gare du Nord) pour aller de Garge-Sarcelles au Bourget. Si on est piéton, on peut voir le système des rues du centre de Reims comme un réseau distribué.</p>
+<p>L’intérêt de la commutation par paquet est qu’il n’est plus nécessaire de disposer d’un “noeud central” qui sait tout, comme cela était le cas avec les réseaux téléphoniques. Grâce aux informations contenues dans l’IP, chaque noeud (routeur) sait ce qu’il doit faire du paquet reçu : le garder pour lui, le transmettre à une autre machine de son réseau ou l’envoyer à un autre noeud (routeur). Outre l’innovation technique qu’elle représentent, la mise au point de la communication par paque a des implications économiques, politiques et sociales.</p>
+<p>En effet, dans la mesure où le protocole TCP/IP permet de passer d’un réseau centralisé à un réseau distribué et, surtout, de connecter différents réseaux entre-eux, elle remet en question (en partie) le monopole que les compagnies des téléphones pouvaient avoir sur les réseaux de télécommunications et des bénéfices économiques qui pouvaient en résulter. Pour les mêmes raisons, il est plus difficile pour un État de contrôler les informations qui circulent dans un réseau distribué. Enfin, le “savoir” est distribué entre tous les noeuds (donc les utilisateurs) du réseau. De cette façon chaque noeud est capable d’apporter des changements aux systèmes d’information et de les diffuser au sein du réseau sans avoir à passer par un opérateur central qui pourrait bloquer l’information <span id="id2">[<a class="reference internal" href="biblio.html#id1415" title="Dominique Cardon. Culture numérique. Les petites humanités. SciencesPo les presses, Paris, 2019. ISBN 978-2-7246-2365-9.">Cardon, 2019</a>]</span>.</p>
 <p><img alt="" src="_images/paul_baran_network.png" /></p>
-<p>Cette possibilité de communiquer via un réseau distribué est un des principes qui fait qu’Internet est une innovation <strong>sociotechnique</strong>. Technique, car il utilise un nouveau moyen de traiter l’information. Social, car il remet en cause par exemple le monopole des compagnies de téléphone sur le contrôle des communications.</p>
+<p>Toutefois, il faut bien comprendre que les concepts qui sont au fondement d’Internet émergent dans des communautés marquées par la culture hippie et les normes de l’ethos scientifiques telles que décrites par Merton <span id="id3">[<a class="reference internal" href="biblio.html#id799" title="Robert K. Merton. The Sociology of Science. Theoretical and Empirical Investigations. The University of Chicago Press, Chicago, 1973.">Merton, 1973</a>]</span> : communalisme, universalisme. Par exemple, Steward Brand, figure de la mouvance hippie à San Francisco et proche d’Engelbart, va être à l’origine du <em>World Earth Catalog</em>, sorte de Wikipedia papier avant l’heure dans lequel n’importe qui peut publier ses trucs et astuces (une recette de cuisine, un mode d’emploi pour construire son ordinateur, etc.). On retrouve ainsi l’idée d’un savoir distribué.</p>
+<p>Enfin, Internet et les protocoles qui sont derrières constituent des innovations sociotechniques dans la mesure où elles conduisent à la création de nouvelles institutions dont le rôle va être de réguler le trafic sur les réseaux, gérer les adresses IP, etc.</p>
 </section>
 </section>
 <section class="tex2jax_ignore mathjax_ignore" id="the-woman-dancing-emoji">
@@ -498,7 +515,7 @@ document.write(`
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Une brève chronologie du numérique</a><ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#internet">Internet</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#internet-une-innovation-sociotechnique">Internet : une innovation sociotechnique</a></li>
 </ul>
 </li>
 <li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#the-woman-dancing-emoji">The Woman Dancing Emoji 💃</a></li>
