@@ -22,11 +22,11 @@ __Exercices__ :
 
 ## Internet : une innovation sociotechnique
 
-````{margin}
+
 ```{note}
 Les informations techniques contenues dans cette partie sont issues du très bon sites <a href="https://www.infoforall.fr/act/snt/cat/internet/"></a>
 ```
-````
+
 
 Internet est le nom donné au protocole permettant à des ordinateurs de communiquer à distance, c'est-à-dire de s'échanger des informations. Ce protocole est le __TCP/IP__, qui signifie "Transmission Control Protocol/__Internet__ Protocol". Il a été mis au point en __1973__ par Vinton Cerf et Robert Kahn dans le cadre du projet __ARPANET__ initié en __1966__ sous l'égide de l'Information Processing Techniques Office (IPTO). L'IPTO est lui-même une subdivision de l'Advanced Research Projetcs Agency. L'ARPA est une agence mise en place en 1958 par le Département américain de la Défense en réponse à l'envoi du premier satellite Spoutnik par l'Union soviétique.
 
@@ -71,6 +71,8 @@ En effet, dans la mesure où le protocole TCP/IP permet de passer d'un réseau c
 ![](./images/paul_baran_network.png)
 
 Toutefois, il faut bien comprendre que les concepts qui sont au fondement d'Internet émergent dans des communautés marquées par la culture hippie et les normes de l’ethos scientifiques telles que décrites par Merton {cite:p}`mertonSociologyScienceTheoretical1973` : communalisme, universalisme. Par exemple, Steward Brand, figure de la mouvance hippie à San Francisco et proche d'Engelbart, va être à l'origine du _World Earth Catalog_, sorte de Wikipedia papier avant l'heure dans lequel n'importe qui peut publier ses trucs et astuces (une recette de cuisine, un mode d'emploi pour construire son ordinateur, etc.). On retrouve ainsi l'idée d'un savoir distribué.
+
+![](./images/whole_earth_catalog.jpeg)
 
 Enfin, Internet et les protocoles qui sont derrières constituent des innovations sociotechniques dans la mesure où elles conduisent à la création de nouvelles institutions dont le rôle va être de réguler le trafic sur les réseaux, gérer les adresses IP, etc.
 
