@@ -27,7 +27,7 @@ __Exercices__ :
 
 
 ```{note}
-Les informations techniques contenues dans cette partie sont issues du très bon sites <a href="https://www.infoforall.fr/act/snt/cat/internet/"></a>
+Les informations techniques contenues dans cette partie sont issues du très bon sites https://www.infoforall.fr/act/snt/cat/internet/
 ```
 
 
@@ -77,12 +77,13 @@ Toutefois, il faut bien comprendre que les concepts qui sont au fondement d'Inte
 
 ![](./images/whole_earth_catalog.jpeg)
 
-
-On peut également faire l'hypothèse que la commutation par paquet, telle que conceptualisée par Paul Baran et Donald Davies et implémentée dans la norme TCP/IP, a pu s'imposer comme le "système" de communication en réseau, car elle s'est développée au sein de communautés épistémiques qui se vivaient déjà en réseau international et travaillant selon le principe du "communalisme". Par exemple, les informaticien.nes travaillaient à partir de programmes libres développés dans le cadre d'un "scepticisme organisé" comme l'illustrent les "Request For Comment" (RFC) qui ont accompagné le développement d'Internet. Les RFC sont des documents dans lesquelles les informaticien.nes présentent et mettent en discussion les résultats de leur recherches. Le premier RFC est publié en 1969 par Steve Crocker (UCLA). Il décrit le fonctionnement du premier protocole de l'ARPA Network {cite:p}`crockerHostSoftware1969`. Le RFC 1122, qui fixe définitivement le protocole TCP/IP comme la norme internet, est publié en 1983(voir https://www.rfc-editor.org/rfc/rfc1122). Aujourd'hui encore, de nouveaux RFC continuent d'être publiés. Ainsi, en 2022, la norme TCP/IP a fait l'objet d'un nouvel RFC.
-
 ```{margin}
 Le "communalisme" est une des quatre normes constituant l'ethos scientifique selon Robert Merton {cite:t}`mertonSociologyScienceTheoretical1973`. Le communalisme implique que les connaissances produites sont des biens communs de la communauté scientifique et doivent pouvoir circuler librement entre les membres de cette commmunauté. La "qualité" de ces biens communs est en partie assuré par le "scepticisme organisé", c'est-à-dire un examen critique des résultats issus de la recherche.
 ```
+
+On peut également faire l'hypothèse que la commutation par paquet, telle que conceptualisée par Paul Baran et Donald Davies et implémentée dans la norme TCP/IP, a pu s'imposer comme le "système" de communication en réseau, car elle s'est développée au sein de communautés épistémiques qui se vivaient déjà en réseau international et travaillant selon le principe du "communalisme". Par exemple, les informaticien.nes travaillaient à partir de programmes libres développés dans le cadre d'un "scepticisme organisé" comme l'illustrent les "Request For Comment" (RFC) qui ont accompagné le développement d'Internet. Les RFC sont des documents dans lesquelles les informaticien.nes présentent et mettent en discussion les résultats de leur recherches. Le premier RFC est publié en 1969 par Steve Crocker (UCLA). Il décrit le fonctionnement du premier protocole de l'ARPA Network {cite:p}`crockerHostSoftware1969`. Le RFC 1122, qui fixe définitivement le protocole TCP/IP comme la norme internet, est publié en 1983(voir https://www.rfc-editor.org/rfc/rfc1122). Aujourd'hui encore, de nouveaux RFC continuent d'être publiés. Ainsi, en 2022, la norme TCP/IP a fait l'objet d'un nouvel RFC.
+
+
 
 Outre que le principe d'un réseau de télécommunication distribué résonne avec les pratiques des communautés épistémiques engagées dans le développement d'Internet, son "succès" tient probablement au fait qu'elle apporte une solution "peu coûteuse" aux problèmes pratiques que rencontrent les chercheurs et chercheuses à l'heure où se développent de grands équipements. En effet, avant la création de réseau d'échange de données entre ordinateur, les scientifiques devaient se déplacer physiquement. Avec Internet et la norme TCP/IP, non seulement on peut envoyer plusieurs requêtes en "même temps" à un ordinateur distant de plusieurs milliers de kilomètres, mais il n'est plus nécessaire de faire partie du même "réseau informatique".
 
