@@ -98,7 +98,7 @@ Enfin, Internet et les protocoles qui sont derrières constituent des innovation
 
 ## Le Web
 
-Internet, a proprement parlé, correspond à l'infrastructure réseau qui permet aux ordinateurs de communiquer entre eux. Le partage d'information nécessite d'utiliser d'autres applications comme les e-mails. Le Web en est une autre. Il repose sur le protocole http mis au point en par Tim Berners-Lee et le mathématicien belge Robert Cailliau. Il consiste à attribuer à chaque document partagé sur le réseau une URL (uniform resource locator) permettant de passer d'un document à un autre. Le Web repose sur deux autres "technologies" : le lien hypertexte et leangage html (hypertext markup langage). Le Web correspond finalement à l'ensemble des documents hypertextes auxquels on peut accéder avec un navigateur Web.
+Internet, a proprement parlé, correspond à l'infrastructure réseau qui permet aux ordinateurs de communiquer entre eux. Le partage d'information nécessite d'utiliser d'autres applications comme les e-mails. Le Web en est une autre. Il repose sur le protocole http mis au point en 1989 par Tim Berners-Lee et le mathématicien belge Robert Cailliau. Il consiste à attribuer à chaque document partagé sur le réseau une URL (uniform resource locator) permettant de passer d'un document à un autre. Le Web repose sur deux autres "technologies" : le lien hypertexte et leangage html (hypertext markup langage). Le Web correspond finalement à l'ensemble des documents hypertextes auxquels on peut accéder avec un navigateur Web.
 
 
 
