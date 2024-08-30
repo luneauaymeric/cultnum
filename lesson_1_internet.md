@@ -1,4 +1,7 @@
-# Une brève chronologie du numérique
+# Leçon 1 -- Internet : une innovation sociotechnique
+
+
+## Une brève chronologie du numérique
 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ZgnK7tp0L8hBm3_MwlHLURJoUwD0Ro7ydz3KyVyDHmM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
@@ -20,7 +23,7 @@ __Exercices__ :
 
 
 
-## Internet : une innovation sociotechnique
+## La commutation par paquet et le protocole TCP/IP
 
 
 ```{note}
@@ -70,16 +73,37 @@ En effet, dans la mesure où le protocole TCP/IP permet de passer d'un réseau c
 
 ![](./images/paul_baran_network.png)
 
-Toutefois, il faut bien comprendre que les concepts qui sont au fondement d'Internet émergent dans des communautés marquées par la culture hippie et les normes de l’ethos scientifiques telles que décrites par Merton {cite:p}`mertonSociologyScienceTheoretical1973` : communalisme, universalisme. Par exemple, Steward Brand, figure de la mouvance hippie à San Francisco et proche d'Engelbart, va être à l'origine du _World Earth Catalog_, sorte de Wikipedia papier avant l'heure dans lequel n'importe qui peut publier ses trucs et astuces (une recette de cuisine, un mode d'emploi pour construire son ordinateur, etc.). On retrouve ainsi l'idée d'un savoir distribué.
+Toutefois, il faut bien comprendre que les concepts qui sont au fondement d'Internet émergent dans des communautés déjà familiarisées à l'idée que le savoir peut et doit être partagé horizontalement. Par exemple, Steward Brand, figure de la mouvance hippie à San Francisco et proche d'Engelbart, va être à l'origine du _World Earth Catalog_, sorte de Wikipedia papier avant l'heure dans lequel n'importe qui peut publier ses trucs et astuces (une recette de cuisine, un mode d'emploi pour construire son ordinateur, etc.). On retrouve ainsi l'idée d'un savoir distribué et accessible de n'importe quel endroit du réseau. Une idée que les belges Paul Otlet et Henri Lafontaine avaient déjà essayé de concrétiser à travers la construction du Mundaneum, sorte de bibliothèque universelle. Paul Otlet imagine également une machine connectée, la Mondothèque, "dans l'idée de créer un réseau international des savoirs" {cite:p}`cardonCultureNumerique2019{p. 84}`.
 
 ![](./images/whole_earth_catalog.jpeg)
 
-Enfin, Internet et les protocoles qui sont derrières constituent des innovations sociotechniques dans la mesure où elles conduisent à la création de nouvelles institutions dont le rôle va être de réguler le trafic sur les réseaux, gérer les adresses IP, etc.
+
+On peut également faire l'hypothèse que la commutation par paquet, telle que conceptualisée par Paul Baran et Donald Davies et implémentée dans la norme TCP/IP, a pu s'imposer comme le "système" de communication en réseau, car elle s'est développée au sein de communautés épistémiques qui se vivaient déjà en réseau international et travaillant selon le principe du "communalisme". Par exemple, les informaticien.nes travaillaient à partir de programmes libres développés dans le cadre d'un "scepticisme organisé" comme l'illustrent les "Request For Comment" (RFC) qui ont accompagné le développement d'Internet. Les RFC sont des documents dans lesquelles les informaticien.nes présentent et mettent en discussion les résultats de leur recherches. Le premier RFC est publié en 1969 par Steve Crocker (UCLA). Il décrit le fonctionnement du premier protocole de l'ARPA Network {cite:p}`crockerHostSoftware1969`. Le RFC 1122, qui fixe définitivement le protocole TCP/IP comme la norme internet, est publié en 1983(voir https://www.rfc-editor.org/rfc/rfc1122). Aujourd'hui encore, de nouveaux RFC continuent d'être publiés. Ainsi, en 2022, la norme TCP/IP a fait l'objet d'un nouvel RFC.
+
+```{margin}
+Le "communalisme" est une des quatre normes constituant l'ethos scientifique selon Robert Merton {cite:t}`mertonSociologyScienceTheoretical1973`. Le communalisme implique que les connaissances produites sont des biens communs de la communauté scientifique et doivent pouvoir circuler librement entre les membres de cette commmunauté. La "qualité" de ces biens communs est en partie assuré par le "scepticisme organisé", c'est-à-dire un examen critique des résultats issus de la recherche.
+```
+
+Outre que le principe d'un réseau de télécommunication distribué résonne avec les pratiques des communautés épistémiques engagées dans le développement d'Internet, son "succès" tient probablement au fait qu'elle apporte une solution "peu coûteuse" aux problèmes pratiques que rencontrent les chercheurs et chercheuses à l'heure où se développent de grands équipements. En effet, avant la création de réseau d'échange de données entre ordinateur, les scientifiques devaient se déplacer physiquement. Avec Internet et la norme TCP/IP, non seulement on peut envoyer plusieurs requêtes en "même temps" à un ordinateur distant de plusieurs milliers de kilomètres, mais il n'est plus nécessaire de faire partie du même "réseau informatique".
+
+
+Enfin, Internet et les protocoles qui sont derrières constituent des innovations sociotechniques dans la mesure où elles conduisent à la création de nouvelles institutions dont le rôle va être de réguler le trafic sur les réseaux, gérer les adresses IP, organiser les modifications des protocoles :
+
+- l'IETF (Internet Engineering Task Force) : elle s'occupe des couches basses de l'infrastructure et du réseau. C'est elle qui gère aujourd'hui les RFC
+
+- l'ICANN (Internet Corporation for Assign Names and Numbers) gère les adressages IP et les noms de domaines comme les terminaisons .fr, .com, .org, etc.
+
+- la W3C (World Wide Web Consortion) traite des couches hautes du web comme la spécification du langage HTML. Elle a mis en place des procédures ouvertes et les décisions se prennent par consensus.
+
+
+## Le Web
+
+Internet, a proprement parlé, correspond à l'infrastructure réseau qui permet aux ordinateurs de communiquer entre eux. Le partage d'information nécessite d'utiliser d'autres applications comme les e-mails. Le Web en est une autre. Il repose sur le protocole http mis au point en par Tim Berners-Lee et le mathématicien belge Robert Cailliau. Il consiste à attribuer à chaque document partagé sur le réseau une URL (uniform resource locator) permettant de passer d'un document à un autre. Le Web repose sur deux autres "technologies" : le lien hypertexte et leangage html (hypertext markup langage). Le Web correspond finalement à l'ensemble des documents hypertextes auxquels on peut accéder avec un navigateur Web.
 
 
 
 
-# The Woman Dancing Emoji &#128131;
+# Exploration 1 -- The Woman Dancing Emoji &#128131;
 
 Les émojis est le thème imposé de cette année. Pour initier l'exercice d'implosion, on s'intéressera en particulier à l'émoji qui représente une femme en robe rouge en train de danser.
 
