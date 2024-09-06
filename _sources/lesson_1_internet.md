@@ -1,8 +1,13 @@
 # Leçon 1 -- Internet : une innovation sociotechnique
 
 
-## Une brève chronologie du numérique
+- Répondre à 3 questions sur Wooclap en cliquant [ici](https://app.wooclap.com/TCDRGN?from=event-page) ou en flashant le QR code ci-dessous
 
+![](./images/qr_code_wooclap_culture_numerique.png)
+
+
+
+## Une brève chronologie du numérique
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1ZgnK7tp0L8hBm3_MwlHLURJoUwD0Ro7ydz3KyVyDHmM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
@@ -13,11 +18,9 @@ __Exercices__ :
 
 - Parcourir la timeline
 
-- Répondre aux question sur Wooclap en cliquant [ici](https://app.wooclap.com/RQTZAO?from=event-page) ou en flashant le QR code ci-dessous
+- Répondre à deux nouvelles questions sur Wooclap en cliquant [ici](https://app.wooclap.com/RQTZAO?from=event-page) ou en flashant le QR code ci-dessous :
 
 ![](./images/qr_code_wooclap_debut_numerique.png)
-
-
 
 <!-- La timeline montre que le numérique est une histoire scientifique et technique, mais aussi une histoire politique à travers les institutions mises en place pour développer Internet et réguler le réseau, une histoire culturelle à travers les pratiques des outils numériques, leurs inscriptions dans des oeuvres littéraires (Azimov), cinématographiques, une histoire des transformations sociales (le télétravail, les sites de rencontre, les réseaux sociaux) -->
 
@@ -33,7 +36,7 @@ Les informations techniques contenues dans cette partie sont issues du très bon
 
 Internet est le nom donné au protocole permettant à des ordinateurs de communiquer à distance, c'est-à-dire de s'échanger des informations. Ce protocole est le __TCP/IP__, qui signifie "Transmission Control Protocol/__Internet__ Protocol". Il a été mis au point en __1973__ par Vinton Cerf et Robert Kahn dans le cadre du projet __ARPANET__ initié en __1966__ sous l'égide de l'Information Processing Techniques Office (IPTO). L'IPTO est lui-même une subdivision de l'Advanced Research Projetcs Agency. L'ARPA est une agence mise en place en 1958 par le Département américain de la Défense en réponse à l'envoi du premier satellite Spoutnik par l'Union soviétique.
 
-La première démonstration d'une communication en réseau entre deux ordinateurs a eu lieu le 9 décembre 1968 avec en vedette Doug Engelbart. Alors qu'Engelbert et son équipe étaient dans le San Francisco’s Civic Auditorium, ils ont réussi à interagir avec un autre ordinateur situé dans leur laboratoire de l'université de Stanford. C'est aussi la première fois qu'on a utilisé une souris. Efin, cette démonstration est considérée comme "the mother of all demos".
+La première démonstration d'une communication en réseau entre deux ordinateurs a eu lieu le 9 décembre 1968 avec en vedette Doug Engelbart. Alors qu'Engelbart et son équipe étaient dans le San Francisco’s Civic Auditorium, ils ont réussi à interagir avec un autre ordinateur situé dans leur laboratoire de l'université de Stanford. C'est aussi la première fois qu'on a utilisé une souris. Efin, cette démonstration est considérée comme "the mother of all demos".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yJDv-zdhzMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -84,8 +87,7 @@ Le "communalisme" est une des quatre normes constituant l'ethos scientifique sel
 On peut également faire l'hypothèse que la commutation par paquet, telle que conceptualisée par Paul Baran et Donald Davies et implémentée dans la norme TCP/IP, a pu s'imposer comme le "système" de communication en réseau, car elle s'est développée au sein de communautés épistémiques qui se vivaient déjà en réseau international et travaillant selon le principe du "communalisme". Par exemple, les informaticien.nes travaillaient à partir de programmes libres développés dans le cadre d'un "scepticisme organisé" comme l'illustrent les "Request For Comment" (RFC) qui ont accompagné le développement d'Internet. Les RFC sont des documents dans lesquelles les informaticien.nes présentent et mettent en discussion les résultats de leur recherches. Le premier RFC est publié en 1969 par Steve Crocker (UCLA). Il décrit le fonctionnement du premier protocole de l'ARPA Network {cite:p}`crockerHostSoftware1969`. Le RFC 1122, qui fixe définitivement le protocole TCP/IP comme la norme internet, est publié en 1983(voir https://www.rfc-editor.org/rfc/rfc1122). Aujourd'hui encore, de nouveaux RFC continuent d'être publiés. Ainsi, en 2022, la norme TCP/IP a fait l'objet d'un nouvel RFC.
 
 
-
-Outre que le principe d'un réseau de télécommunication distribué résonne avec les pratiques des communautés épistémiques engagées dans le développement d'Internet, son "succès" tient probablement au fait qu'elle apporte une solution "peu coûteuse" aux problèmes pratiques que rencontrent les chercheurs et chercheuses à l'heure où se développent de grands équipements. En effet, avant la création de réseau d'échange de données entre ordinateur, les scientifiques devaient se déplacer physiquement. Avec Internet et la norme TCP/IP, non seulement on peut envoyer plusieurs requêtes en "même temps" à un ordinateur distant de plusieurs milliers de kilomètres, mais il n'est plus nécessaire de faire partie du même "réseau informatique".
+Outre que le principe d'un réseau de télécommunication distribué résonne avec les pratiques des communautés épistémiques engagées dans le développement d'Internet, son "succès" tient probablement au fait qu'elle a apporté une solution "peu coûteuse" aux problèmes pratiques que rencontrent les chercheurs et chercheuses à l'heure où se développaient de grands équipements, notamment les grands ordinateurs. En effet, avant la création de réseau d'échange de données entre ordinateur, les scientifiques devaient se déplacer physiquement. Avec Internet et la norme TCP/IP, non seulement on peut envoyer plusieurs requêtes en "même temps" à un ordinateur distant de plusieurs milliers de kilomètres, mais il n'est plus nécessaire de faire partie du même "réseau informatique".
 
 
 Enfin, Internet et les protocoles qui sont derrières constituent des innovations sociotechniques dans la mesure où elles conduisent à la création de nouvelles institutions dont le rôle va être de réguler le trafic sur les réseaux, gérer les adresses IP, organiser les modifications des protocoles :
@@ -99,4 +101,4 @@ Enfin, Internet et les protocoles qui sont derrières constituent des innovation
 
 ## Le Web
 
-Internet, a proprement parlé, correspond à l'infrastructure réseau qui permet aux ordinateurs de communiquer entre eux. Le partage d'information nécessite d'utiliser d'autres applications comme les e-mails. Le Web en est une autre. Il repose sur le protocole http mis au point en 1989 par Tim Berners-Lee et le mathématicien belge Robert Cailliau. Il consiste à attribuer à chaque document partagé sur le réseau une URL (uniform resource locator) permettant de passer d'un document à un autre. Le Web repose sur deux autres "technologies" : le lien hypertexte et leangage html (hypertext markup langage). Le Web correspond finalement à l'ensemble des documents hypertextes auxquels on peut accéder avec un navigateur Web.
+Internet, a proprement parlé, correspond à l'infrastructure réseau qui permet aux ordinateurs de communiquer entre eux. Le partage d'information nécessite d'utiliser d'autres applications comme les e-mails. Le Web en est une autre. Il repose sur le protocole __http__ mis au point en 1989 par Tim Berners-Lee et le mathématicien belge Robert Cailliau. Il consiste à attribuer à chaque document partagé sur le réseau une URL (uniform resource locator) permettant de passer d'un document à un autre. Le Web repose sur deux autres "technologies" : le lien hypertexte et leangage html (hypertext markup langage). Le Web correspond finalement à l'ensemble des documents hypertextes auxquels on peut accéder avec un navigateur Web.
