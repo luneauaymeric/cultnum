@@ -55,14 +55,35 @@ Lawrence Lessig crée les licences creatives commons en 2001 Les Creatives Commo
 
 0. CC0 : la licence autorise la distribution, la modification et même la commercialisation. Le nom de l'auteur.trice n'a pas être mentionné. L'oeuvre appartient au domaine public.
 
-1. CC BY : la licence autorise la distribution, la modification et même la commercialisation à condition que le nom de l'auteur.trice original.e soit mentionné.
+1. CC BY [![CC BY 4.0][cc-by-image]][cc-by] : la licence autorise la distribution, la modification et même la commercialisation à condition que le nom de l'auteur.trice original.e soit mentionné.
 
-2. CC BY-SA : En plus de mentionner le nom de l'auteur.trice, les modifications apportées à l'oeuvre originale doivent être distribuées sous les même termes
+2. CC BY-SA  [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa] : En plus de mentionner le nom de l'auteur.trice, les modifications apportées à l'oeuvre originale doivent être distribuées sous les même termes
 
-3. CC BY-NC : Ne permet pas la commercialisation
+3. CC BY-NC [![CC BY-NC 4.0][cc-by-nc-image]][cc-nc] : Ne permet pas la commercialisation
 
-4. CC BY-NC-SA : Ne permet pas la commercialisation et les modifications doivent être distribuées sous la même licence (donc non commercialisées)
+4. CC BY-NC-SA [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa] : Ne permet pas la commercialisation et les modifications doivent être distribuées sous la même licence (donc non commercialisées)
 
-5. CC BY-ND : Le nom de l'auteur doit être mentionné et l'oeuvre ne peut pas être modifiée. Elle peut être commercialisé.
+5. CC BY-ND [![CC BY-ND 4.0][cc-by-nd-image]][cc-by-nd] : Le nom de l'auteur doit être mentionné et l'oeuvre ne peut pas être modifiée. Elle peut être commercialisé.
 
-6. CC BY-ND-NC : Le nom de l'auteur doit être mentionné, l'oeuvre ne peut pas être modifiée, elle ne peut pas être commercialisée.
+6. CC BY-ND-NC [![CC BY-ND-NC 4.0][cc-by-nd-nc-image]][cc-by-nd-nc] : Le nom de l'auteur doit être mentionné, l'oeuvre ne peut pas être modifiée, elle ne peut pas être commercialisée.
+
+
+
+[cc-by]: https://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://licensebuttons.net/i/l/by/transparent/00/00/00/88x31.png
+
+[cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/i/l/by-sa/transparent/00/00/00/88x31.png
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/i/l/by-nc-sa/transparent/00/00/00/88x31.png
+
+[cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/i/l/by-nc-sa/transparent/00/00/00/88x31.png
+
+[cc-by-nd]: https://creativecommons.org/licenses/by-nd/4.0/
+[cc-by-nd-image]: https://licensebuttons.net/i/l/by-nd/transparent/00/00/00/88x31.png
+
+
+[cc-by-nd-nc]: https://creativecommons.org/licenses/by-nd-nc/4.0/
+[cc-by-nd-nc-image]: https://licensebuttons.net/i/l/by-nd-nc/transparent/00/00/00/88x31.png
