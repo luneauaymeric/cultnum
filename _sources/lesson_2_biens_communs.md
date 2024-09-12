@@ -59,13 +59,13 @@ Lawrence Lessig crée les licences creatives commons en 2001 Les Creatives Commo
 
 2. CC BY-SA  [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa] : En plus de mentionner le nom de l'auteur.trice, les modifications apportées à l'oeuvre originale doivent être distribuées sous les même termes
 
-3. CC BY-NC [![CC BY-NC 4.0][cc-by-nc-image]][cc-nc] : Ne permet pas la commercialisation
+3. CC BY-NC [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc] : Ne permet pas la commercialisation
 
 4. CC BY-NC-SA [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa] : Ne permet pas la commercialisation et les modifications doivent être distribuées sous la même licence (donc non commercialisées)
 
 5. CC BY-ND [![CC BY-ND 4.0][cc-by-nd-image]][cc-by-nd] : Le nom de l'auteur doit être mentionné et l'oeuvre ne peut pas être modifiée. Elle peut être commercialisé.
 
-6. CC BY-ND-NC [![CC BY-ND-NC 4.0][cc-by-nd-nc-image]][cc-by-nd-nc] : Le nom de l'auteur doit être mentionné, l'oeuvre ne peut pas être modifiée, elle ne peut pas être commercialisée.
+6. CC BY-ND-NC [![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd] : Le nom de l'auteur doit être mentionné, l'oeuvre ne peut pas être modifiée, elle ne peut pas être commercialisée.
 
 
 
@@ -85,5 +85,5 @@ Lawrence Lessig crée les licences creatives commons en 2001 Les Creatives Commo
 [cc-by-nd-image]: https://licensebuttons.net/i/l/by-nd/transparent/00/00/00/88x31.png
 
 
-[cc-by-nd-nc]: https://creativecommons.org/licenses/by-nd-nc/4.0/
-[cc-by-nd-nc-image]: https://licensebuttons.net/i/l/by-nd-nc/transparent/00/00/00/88x31.png
+[cc-by-nc-nd]: https://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-image]: https://licensebuttons.net/i/l/by-nc-nc/transparent/00/00/00/88x31.png
