@@ -75,8 +75,8 @@ Lawrence Lessig crée les licences creatives commons en 2001 Les Creatives Commo
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/i/l/by-sa/transparent/00/00/00/88x31.png
 
-[cc-by-nc]: https://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-image]: https://licensebuttons.net/i/l/by-nc-sa/transparent/00/00/00/88x31.png
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/i/l/by-nc/transparent/00/00/00/88x31.png
 
 [cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/i/l/by-nc-sa/transparent/00/00/00/88x31.png
@@ -86,4 +86,4 @@ Lawrence Lessig crée les licences creatives commons en 2001 Les Creatives Commo
 
 
 [cc-by-nc-nd]: https://creativecommons.org/licenses/by-nc-nd/4.0/
-[cc-by-nc-nd-image]: https://licensebuttons.net/i/l/by-nc-nc/transparent/00/00/00/88x31.png
+[cc-by-nc-nd-image]: https://licensebuttons.net/i/l/by-nc-nd/transparent/00/00/00/88x31.png
