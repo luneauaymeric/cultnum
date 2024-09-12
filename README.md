@@ -4,7 +4,7 @@ Ce site est conçu comme un support du cours de "Cultures numériques" de 2024 d
 
 https://luneauaymeric.github.io/cultnum/
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc-sa]
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Il a été créé sous la licence :
 This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
