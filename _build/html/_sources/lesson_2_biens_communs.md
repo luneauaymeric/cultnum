@@ -54,6 +54,10 @@ Les quatre principes du logiciel libre :
 
 3. en redistribuer des versions modifiées.
 
+![Un petit hobby](images/mail_linus.jpg)
+
+Linux ou, comme Richard Stallman aime le rappeler, GNU/Linux est probablement l'un des exemple les plus connu de logiciel _open source_. Il y a un débat concernant le caractère libre ou non de Linux. Le projet est lancé en 1991 par le norvégien Linus Tovard. Linux et, plus précisément, les différentes distributions de linux représente un système d'exploitation majeur aujourd'hui qui équipe de nombreux serveurs notamment. Il repose sur l'idée qu'un logiciel, un programme informatique est d'autant plus performant et fiable qu'il est ouvert.
+
 
 ## Licences Commoms
 
