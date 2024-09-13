@@ -4,6 +4,12 @@ Les mythes fondateurs d'Internet et du Web donnent aux communautés de praticien
 
 # De la théorie des communs aux communs numériques
 
+Pour commencer, il est utile de rappeler quelques distinctions. Edouard Jourdain propose ainsi de distinguer les choses communes, les biens communs, les communs et le commun.
+
+Les __choses communes__ (_res communis_)désignent les ressources qui sont communes de fait comme l'eau ou l'air. Les __biens communs__ renvoie, au sens d'Aristote à l'ordre éthique et politique qui fonde l'unité d'une communauté. Les __biens communs__ désignent également des ressources dites "rivales", mais non exclusives. C'est-à-dire des ressources dont la consommation prive autrui de ce même bien, mais qu'on peut difficilement s'approprier. Les __communs__ correspondent plutôt aux modalités de gouvernement et de fabrication des règles. Ce sont les institutions garantes de la préservation des biens communs. Un ou plutôt les communs, ce sont "un bien, plus une communauté, plus un ensemble de règles sociales" `bollierRenaissanceCommunsPour2013{p. 27}`. Enfin, le __commun__ est un principe politique qui désigne "le fait que des hommes et femmes s’engagent ensemble dans une même tâche et produisent, en agissant ainsi, des normes morales et juridiques qui règlent leur action"
+(Negri et Hardt, Commonwealth 2014; Dardot et Laval, 2014).
+
+
 La notion de "bien commun" désigne des situations dans lesquels les règles de gestion des ressources sont fixées par l'ensemble des actrices et acteurs qui en dépendent. On oppose généralement les biens communs aux "biens privés" et aux "biens publics" dans la mesure où ni une personne (physique ou morale) ni un État ne peut revendiquer la propriété exclusive de ces ressources. Paradoxalement, dans l'histoire occidentale, on rattache la notion de bien commun aux "communaux" (_commons_), c'est-à-dire des terres appartenant à un seigneur dont l'exploitation étaient laissée à des communautés pour leurs propres besoins en échange de la "corvée" par exemple. Ces "communaux" ont progressivement disparu avec le mouvement des enclosures. Les travaux en anthropologie ont également montré que dans de nombreuses sociétés les ressources étaient gérées sous la forme de commun comme les pêcheries.
 
 Si Marx et Polaniy parlent des communs, c'est surtout avec Hardin {cite:p}`hardinTragedyCommons2009` et son article "La Tragédie des communs" que la notion a fait le buzz. Dans cet article, Hardin soutient que les "communs" sont à l'origine des catastrophes écologiques : "chacun étant guidé par son avidité va essayer de bénéficier au mieux des communs, sans prendre en charge leur renouvellement."
@@ -26,7 +32,7 @@ En opposition à l'analyse d'Hardin, Elinor Ostrom soutient que les "communs" co
 
 - des activités de gouvernance organisées en strates différentes et imbriquées.
 
-Ainsi, un "bien commun" renvoie non seulement à un type de ressource, mais aussi à une forme sociale spécifique. Pour reprendre les mots de David Bollier, "un commun c’est une ressource, plus une communauté, plus un ensemble de règles sociales" {cite:p}`bollierRenaissanceCommunsPour2013{p. 27}`.
+
 
 Enfin le cadre d'analyse développé par Ostrom semble pouvoir s'appliquer à un certain nombre de biens et services numérique à commencer par Internet, dont les spécifications sont gérés par l'Internet Engineering Task Force, et le Web que le CERN a mis dans le domaine public dès 1993 et qui est géré par le World Wide Web Consortium. Parmi les communs numériques, on peut citer les logiciels libres et open source, Wikipedia ou encore les Creatives Commons.
 
@@ -36,7 +42,7 @@ Si les biens numériques sont "non-rivaux" au sens où le fait qu'en lisant un a
 
 Le mouvement du logiciel libre s'inscrit dans les pratiques usuelles des premières communautés de développeuses et développeurs. Travailler à partir de programmes informatiques libres et ouverts était la norme. Il a émergé en réaction à la volonté de certaines entreprise de fermer le code informatique pour mieux le commercialiser. Parmi ces entreprises, il y a Microsoft fondé par Bill Gates et AT&T Bell Labs qui au début des années 1980 commercialise son système d'exploitation, appelé UNIX, qui était jusqu'alors utilisé librement par les informaticiens. Et c'est précisément contre la fermeture de UNIX que Richard Stallman lance en 1983 le projet GNU - GNU is Not Unix. Ce projet débouchera ensuite sur la création de la General Public Licence (GPL). Elle prévoit que si l'on bénéficie de l'ouverture du code pour apporter des modifications, alors on doit aussi partager ses modifications en donnant accès aux sources de la nouvelle génération du logiciel.
 
-Le "logiciel libre" au sens de Stallman a une dimension politique : son objet est de proposer un contre-modèle au logiciel propriétaire. Il se distingue ainsi au logiciel _open source_. Open source désigne avant tout une méthode de développement reposant sur l'ouverture du code et son partage, mais il ne s'oppose pas _a priori_ aux logiciels propriétaires. Un logiciel "open source" peut contenir du code dit "propriétaire" (non-ouvert).
+Le "logiciel libre" au sens de Stallman a une dimension politique : son objet est de proposer un contre-modèle au logiciel propriétaire. Il se distingue ainsi du logiciel _open source_. Open source désigne avant tout une méthode de développement reposant sur l'ouverture du code et son partage, mais il ne s'oppose pas _a priori_ aux logiciels propriétaires. Un logiciel "open source" peut contenir du code dit "propriétaire" (non-ouvert).
 
 Les quatre principes du logiciel libre :
 
